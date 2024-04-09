@@ -1,0 +1,270 @@
+Model:  BertLarge
+Date:  04/09/24
+Time:  06:48
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Listing...
+sambaflow/focal,focal,now 1.17.7-27 amd64 [installed,upgradable to: 1.18.7-38]
+Machine State Before: 
+Platform: DataScale SN30-8
+
+Physical Inventory:
+Component Name                        | Serial Number       | Inventory State | Functional State
+------------------------------------------------------------------------------------------------
+/NODE/XRDU_0/RDU_0                    | 205057B469B35895    | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_0/DIMM_A0    | 1F310A0             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_1/DIMM_B0    | 1F31085             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_2/DIMM_E0    | 1F3123D             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_3/DIMM_F0    | 1F310E6             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_4/DIMM_G0    | 1F6F66D             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_5/DIMM_H0    | 1F6F8AE             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_6/DIMM_C0    | 1F31058             | Present         | Online       
+/NODE/XRDU_0/RDU_0/DDRCH_7/DIMM_D0    | 1F31185             | Present         | Online       
+/NODE/XRDU_0/RDU_0/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_0/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1                    | 60504FB469B35895    | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_0/DIMM_J0    | 1F31211             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_1/DIMM_K0    | 1F312E9             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_2/DIMM_N0    | 1F312F6             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_3/DIMM_P0    | 1F31160             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_4/DIMM_Q0    | 1F3129B             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_5/DIMM_R0    | 1F31103             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_6/DIMM_L0    | 1F312FC             | Present         | Online       
+/NODE/XRDU_0/RDU_1/DDRCH_7/DIMM_M0    | 1F3124F             | Present         | Online       
+/NODE/XRDU_0/RDU_1/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_0/RDU_1/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0                     | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_0              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_1              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_2              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_3              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_4              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_5              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_6              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_7              | N/A                 | Present         | Online       
+/NODE/XRDU_0/SW_0/PORT_8              | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0                    | 400804356D2D5895    | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_0/DIMM_A0    | 1F5BB53             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_1/DIMM_B0    | 1F5BD97             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_2/DIMM_E0    | 1F5BB36             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_3/DIMM_F0    | 1F5BB2D             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_4/DIMM_G0    | 1F5BD6E             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_5/DIMM_H0    | 1F5BB50             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_6/DIMM_C0    | 1F5BACD             | Present         | Online       
+/NODE/XRDU_1/RDU_0/DDRCH_7/DIMM_D0    | 1F5BDEC             | Present         | Online       
+/NODE/XRDU_1/RDU_0/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_0/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1                    | 605030356D2D5895    | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_0/DIMM_J0    | 1F5BB47             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_1/DIMM_K0    | 1F5BB41             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_2/DIMM_N0    | 1F5BB72             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_3/DIMM_P0    | 1F5BBDC             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_4/DIMM_Q0    | 1F5BB8B             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_5/DIMM_R0    | 1F5BCF1             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_6/DIMM_L0    | 1F5BB6C             | Present         | Online       
+/NODE/XRDU_1/RDU_1/DDRCH_7/DIMM_M0    | 1F5BD33             | Present         | Online       
+/NODE/XRDU_1/RDU_1/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_1/RDU_1/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0                     | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_0              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_1              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_2              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_3              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_4              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_5              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_6              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_7              | N/A                 | Present         | Online       
+/NODE/XRDU_1/SW_0/PORT_8              | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0                    | 507076B16ABDB895    | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_0/DIMM_A0    | 1F5BD93             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_1/DIMM_B0    | 1F5BB10             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_2/DIMM_E0    | 1F5BB0F             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_3/DIMM_F0    | 1F5BD9A             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_4/DIMM_G0    | 1F5BD8D             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_5/DIMM_H0    | 1F5BD46             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_6/DIMM_C0    | 1F5BB1A             | Present         | Online       
+/NODE/XRDU_2/RDU_0/DDRCH_7/DIMM_D0    | 1F5BB0E             | Present         | Online       
+/NODE/XRDU_2/RDU_0/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_0/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1                    | 30702AB16ABDB895    | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_0/DIMM_J0    | 1F5BDC7             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_1/DIMM_K0    | 1F5BAF9             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_2/DIMM_N0    | 1F5BB08             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_3/DIMM_P0    | 1F5BDBA             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_4/DIMM_Q0    | 1F5BD99             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_5/DIMM_R0    | 1F5BB15             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_6/DIMM_L0    | 1F5BB2C             | Present         | Online       
+/NODE/XRDU_2/RDU_1/DDRCH_7/DIMM_M0    | 1F5BB2B             | Present         | Online       
+/NODE/XRDU_2/RDU_1/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_2/RDU_1/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0                     | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_0              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_1              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_2              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_3              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_4              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_5              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_6              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_7              | N/A                 | Present         | Online       
+/NODE/XRDU_2/SW_0/PORT_8              | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0                    | 702867316ABDB895    | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_0/DIMM_A0    | 1F5BBE4             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_1/DIMM_B0    | 1F5BC28             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_2/DIMM_E0    | 1F5BCC6             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_3/DIMM_F0    | 1F5BDF2             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_4/DIMM_G0    | 1F5BAFE             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_5/DIMM_H0    | 1F5BAEC             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_6/DIMM_C0    | 1F5BBA7             | Present         | Online       
+/NODE/XRDU_3/RDU_0/DDRCH_7/DIMM_D0    | 1F5BC96             | Present         | Online       
+/NODE/XRDU_3/RDU_0/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_0/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1                    | 60084B316ABDB895    | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_0/DIMM_J0    | 1F5BDBE             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_1/DIMM_K0    | 1F5BC0D             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_2/DIMM_N0    | 1F5BC99             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_3/DIMM_P0    | 1F5BB68             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_4/DIMM_Q0    | 1F5BC21             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_5/DIMM_R0    | 1F5BC22             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_6/DIMM_L0    | 1F5BC9C             | Present         | Online       
+/NODE/XRDU_3/RDU_1/DDRCH_7/DIMM_M0    | 1F5BC17             | Present         | Online       
+/NODE/XRDU_3/RDU_1/PCIE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/PCIE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/PCIE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/PCIE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/PCIE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/PCIE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_0             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_1             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_2             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_3             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_4             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_5             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_6             | N/A                 | Present         | Online       
+/NODE/XRDU_3/RDU_1/TILE_7             | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0                     | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_0              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_1              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_2              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_3              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_4              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_5              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_6              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_7              | N/A                 | Present         | Online       
+/NODE/XRDU_3/SW_0/PORT_8              | N/A                 | Present         | Online       
+/NODE/HOST/HIC_0/DPORT                | N/A                 | Present         | Online       
+/NODE/HOST/HIC_1/DPORT                | N/A                 | Present         | Online       
+/NODE/HOST/HIC_2/DPORT                | N/A                 | Present         | Online       
+/NODE/HOST/HIC_3/DPORT                | N/A                 | Present         | Online
+RUN
+SHELL=/bin/bash
+PWD=/home/seg12b/BertLarge
+LOGNAME=seg12b
+OPENBLAS_NUM_THREADS=8
+MOTD_SHOWN=pam
+HOME=/home/seg12b
+LANG=en_US.UTF-8
+VIRTUAL_ENV=/opt/sambaflow/apps/nlp/transformers_on_rdu/venv
+SSH_CONNECTION=140.221.69.48 54406 140.221.82.5 22
+TERM=xterm-256color
+LIBVIRT_DEFAULT_URI=qemu:///system
+USER=seg12b
+IBV_FORK_SAFE=1
+SHLVL=2
+SOFTWARE_HOME=/opt
+PS1=(venv) 
+SSH_CLIENT=140.221.69.48 54406 22
+OMP_NUM_THREADS=18
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+PATH=/opt/sambaflow/apps/nlp/transformers_on_rdu/venv/bin:/opt/sambaflow/bin:/opt/sambaflow/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/seg12b/.local/bin:/home/seg12b/bin
+GLIBC_TUNABLES=glibc.cpu.hwcaps=-AVX_Usable,-AVX2_Usable,-Prefer_ERMS,-Prefer_FSRM,Prefer_No_AVX512,Prefer_No_VZEROUPPER,-AVX_Fast_Unaligned_Load,-ERMS
+SSH_TTY=/dev/pts/2
+OLDPWD=/home/seg12b
+_=/usr/bin/env
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+
+I am not sure what the issue is with this code. I received erros despite following the instructions exactly.
