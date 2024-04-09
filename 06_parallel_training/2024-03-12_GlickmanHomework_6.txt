@@ -1,0 +1,1 @@
+I submitted my Weights & Biases run link for the Shakespeare parallel training exercise (Homework 6). Link: https://wandb.ai/samglickman714/WordPlay/runs/l13a7fs1?nw=nwusersamglickman714
